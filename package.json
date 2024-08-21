@@ -1,0 +1,17 @@
+{
+  "name": "@devesharya/medium-common",
+  "version": "1.2.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@devesharya/medium-common": "^1.1.0",
+    "react": "^18.3.1",
+    "react-router-dom": "^6.26.1"
+  }
+}
